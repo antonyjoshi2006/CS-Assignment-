@@ -13,7 +13,6 @@ Contact – Ways to get in touch
 🛠️ Built With
 HTML
 CSS3
-JavaScript
 📁 Project Structure
 
 
